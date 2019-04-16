@@ -1,0 +1,148 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: lightgrey;
+	width: 768px;
+	height: 2600px;
+	background-image: url(wood.jpg)
+}
+@media (max-width: 768px){
+}
+#graphic{
+	width: 480px;
+	height: 108px;
+	background-color: palevioletred;
+	margin: 0 auto;
+}
+#order{
+	width: 480px;
+	height: 50px;
+	background-color: white;
+	margin: 0 auto;
+	position: relative;
+	top: 5px;
+	transition: all 1s;
+}
+#order:hover{
+	cursor: pointer;
+	background-color: #ED5C9A;
+}
+#order p{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 2.1em;
+	color: black;
+	text-align: center;
+	padding: 5px;
+	transition: all 1s;
+}
+#order p:hover{
+	color:white;
+}
+.tabshape{
+	border-radius: 30px;
+}
+#Menu{
+	width: 480px;
+	height: 50px;
+	background-color: white;
+	margin: 0 auto;
+	position: relative;
+	bottom:20px;
+	transition: all 1s;
+}
+#Menu:hover{
+	cursor: pointer;
+	background-color:  #C34379;
+}
+#Menu p{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 2.1em;
+	color: black;
+	text-align: center;
+	padding: 5px;
+	transition: all 1s;
+}
+#Menu p:hover{
+	color:white;
+}
+#location{
+	width: 480px;
+	height: 50px;
+	background-color: white;
+	margin: 0 auto;
+	transition: all 1s;
+}
+#location:hover{
+	cursor: pointer;
+	background-color: #A63564
+}
+#location p{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 2.1em;
+	color: black;
+	text-align: center;
+	padding: 5px;
+	transition: all 1s;
+}
+#location p:hover{
+	color: white;
+}
+#about{
+	width: 480px;
+	height: 50px;
+	background-color: white;
+	margin: 0 auto;
+	transition: all 1s;
+}
+#about:hover{
+	cursor: pointer;
+	background-color: #6D0C36;
+}
+#about p{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 2.1em;
+	color: black;
+	text-align: center;
+	padding: 5px;
+	transition: all 1s;
+}
+#about p:hover{
+	color: white;
+}
+.center{
+	text-align: center;
+	position: relative;
+	font-size: 1.8em;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+	}
+#appetizer{
+	font-size: 1.2em;
+	position: relative;
+	bottom: 10px;
+}
+#lunchanddinner{
+	font-size: 1.2em;
+}
+.center p{
+	font-size: 1.2em;
+}
+h1{
+	color:#FC4614;
+}
+h3{
+	color:#FC4614;
+	font-size: 1.2em;
+}
+.text p{
+	font-size: 1.2em;
+}
+#homstead p{
+	font-size: 1.2em;
+}
+#kendal p{
+	font-size: 1.2em;
+}
+#p p{
+	text-align: center;
+	font-size: 1.5em;
+}

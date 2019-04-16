@@ -1,0 +1,110 @@
+body{
+	margin:0;
+	padding:0;
+}
+#main{
+	width:1980px;
+	height:1980px;
+	background-color: #eee3e7;
+}
+#blue{
+	margin: 0;
+	padding:0;
+	width: 850px;
+	height: 700px;
+	background-color: #eee3e7;
+	position: relative;
+	left:140px;
+	top: 50px;
+}
+#pink p strong{
+	font-size: 2em;
+}
+#purple p strong{
+	font-size: 1.5em;
+	position: relative;
+	top: 5px;
+}
+#red{
+	margin: 0;
+	padding:0;
+	width:400px;
+	height:300px;
+	background-color: #e8b1c5;
+	position: relative;
+	left:1000px;
+	bottom:600px;
+}
+.centered{
+	display: block;
+	margin: 1 auto;
+	text-align: center;
+}
+#red p{
+	font-family: apple chancery, tahoma, sans-serif;
+	font-size:1.5em;
+	color:#347f9c;
+	padding: 4;
+}
+#image{
+	position: relative;
+	top: 50px;
+}
+#pink{
+	margin: 0;
+	padding:0;
+	width:900px;
+	height:500px;
+	background-color: pink;
+	position: relative;
+	left: 140px;
+	bottom:200px;
+}
+#pink p{
+	font-family: apple chancery, tahoma, sans-serif;
+	font-size:1.5em;
+	color:#9e8321;
+	padding: 4;
+}
+#purple{
+	margin: 0;
+	padding:0;
+	width:400px;
+	height:300px;
+	background-color: #de7ca5;
+	position: relative;
+	left:140px;
+	bottom:150px;
+}
+#purple p{
+	font-family: apple chancery, tahoma, sans-serif;
+	font-size:1.5em;
+	color:green;
+	padding: 4;
+}
+#green{
+	margin: 0;
+	padding:0;
+	width:280px;
+	height:200px;
+	background-color: #c6b7a4;
+	position: relative;
+	left:800px;
+	bottom:450px;
+}
+#green p{
+	font-family: tahoma, sans-serif;
+	font-size:2em;
+	color:black;
+	padding: 4;
+	position: relative;
+	top: 50px;
+}
+#green p strong{
+	text-align: ;
+}
+#green a{
+	font-size:2em;
+	position: relative;
+	top: 50px;
+}
