@@ -1,0 +1,281 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: lightgray;
+	width: 1080px;
+	height: 6000px;
+}
+#logo{
+	position: absolute;
+	top: -150px;
+	left: 40px;
+}
+#navigation ul{
+	list-style-type: none;
+	background-color: antiquewhite;
+	height: 70px;
+	margin: auto;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 1.2em;
+	color:#41882D;
+}
+#navigation li{
+	display: inline-block;
+	padding-left: 143px;
+	padding-top: 20px;
+}
+#navigation li img{
+	position: absolute;
+	top: -150px
+}
+#imagen{
+	padding: 10px;
+}
+#video{
+	padding-left: 190px;
+	padding-top: 10px;
+}
+#videos ul{
+	list-style-type: none;
+	background-color:#5A953D;
+	height: 70px;
+	margin: auto;
+}
+#videos li img{
+	position: absolute;
+	left: 500px;
+	top: 1100px;
+}
+#character ul{
+	list-style-type: none;
+	background-color:#99AF63;
+	height: 70px;
+	margin: auto;
+} 
+#character li img{
+	position: absolute;
+	left: 500px;
+}
+.gallery{
+	padding-left: 100px;
+	padding-top: 10px;
+	height: 1300px;
+}
+.desc{
+	width: 180px;
+	text-align: center;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+#cc{
+	position: absolute;
+	top: 1780px;
+	left: 500px;
+}
+#p{
+	position: absolute;
+	top: 1970px;
+	left: 480px;
+	
+}
+#susuki{
+	position: absolute;
+	top: 1780px;
+	left: 900px;
+}
+#p1{
+	position: absolute;
+	top: 1970px;
+	left: 869px;
+	width: 200px;
+}
+#nunaly{
+	position: absolute;
+	top: 2100px;
+	left: 100px;
+}
+#p2{
+	position: absolute;
+	top: 2290px;
+	left: 55px;
+	width: 230px;
+}
+#p0{
+	position: absolute;
+	left: 70px;
+	width: 200px;
+}
+#bitur{
+	position: absolute;
+	top: 2100px;
+	left: 470px;
+}
+#p3{
+	position: absolute;
+	top: 2290px;
+	left: 455px;
+	width: 220px;
+}
+#shario{
+	position: absolute;
+	top: 2120px;
+	left: 865px;
+}
+#p4{
+	position: absolute;
+	top: 2310px;
+	left: 870px;
+	width: 190px;
+}
+#shestal{
+	position: absolute;
+	top: 2450px;
+	left: 100px;
+}
+#p5{
+	position: absolute;
+	top: 2635px;
+	left: 100px;
+}
+#kallen{
+	position: absolute;
+	top: 2450px;
+	left: 500px;
+}
+#p6{
+	position: absolute;
+	top: 2635px;
+	left: 480px;
+}
+#jeremiah{
+	position: absolute;
+	top: 2450px;
+	left: 900px;
+}
+#p7{
+	position: absolute;
+	top: 2635px;
+	left: 885px;
+	width: 170px;
+}
+#cornelia{
+	position: absolute;
+	top: 2780px;
+	left: 100px;
+}
+#p8{
+	position: absolute;
+	top: 2970px;
+	left: 80px;
+}
+#alstrein{
+	position: absolute;
+	top: 2780px;
+	left: 500px;
+}
+#p9{
+	position: absolute;
+	top: 2970px;
+	left: 480px;
+}
+#lloyd{
+	position: absolute;
+	top: 2780px;
+	left: 900px;
+}
+#p10{
+	position: absolute;
+	top: 2970px;
+	left: 880px;
+}
+#sinopsis ul{
+	list-style-type: none;
+	background-color:#B2D57B;
+	height: 70px;
+	margin: auto;
+}
+#sinopsis li img{
+	position: absolute;
+	left: 500px;
+}
+#paragraph{
+	width: 500px;
+	text-align: center;
+	padding-top: 50px;
+	padding-left: 300px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+#img{
+	padding-left: 100px;
+	padding-top: 50px;
+}
+#img a{
+	position: absolute;
+	top: 3750px;
+	left: 870px;
+	width: 200px;
+}
+#facebook{
+	padding-left: 400px;
+	padding-top: 10px;
+}
+#twitter{
+	position: absolute;
+	left: 450px;
+	top: 3870px;
+}
+#instagram{
+	position: absolute;
+	left: 610px;
+	top: 3870px;
+}
+#snapchat{
+	position: absolute;
+	left: 730px;
+	top: 3870px;
+}
+#gallery ul{
+	list-style-type: none;
+	background-color: antiquewhite;
+	height: 70px;
+	margin: auto;
+}
+#gallery li img{
+	position: absolute;
+	left: 500px;
+}
+#galery0{
+	position: absolute;
+	top: 4100px;
+}
+#galery1{
+	position: absolute;
+	top: 4100px;
+	left: 800px;
+}
+#galery2{
+	position: absolute;
+	top: 4500px;
+}
+#galery3{
+	position: absolute;
+	top: 4500px;
+	left: 800px;
+}
+#galery4{
+	position: absolute;
+	top: 4900px;
+}
+#galery5{
+	position: absolute;
+	top: 4900px;
+	left: 800px;
+}
+#galery6{
+	position: absolute;
+	top: 5300px;
+}
+#galery7{
+		position: absolute;
+	top: 5300px;
+	left: 800px;
+}

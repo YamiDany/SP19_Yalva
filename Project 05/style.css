@@ -1,0 +1,264 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: antiquewhite;
+	width: 2000px;
+	height: 3300px;
+	background-image:url("Ash.jpg")
+}
+#logo{
+	width: 400px;
+	height: 100px;
+	background-color: red;
+	position: absolute;
+	left: 600px;
+	right: 400px;
+}
+#menu{
+	width: 100px;
+	height: 40px;
+	background-color: white;
+	position: absolute;
+	left: 80px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 2em;
+	text-align: center;
+	transition: all 1s;
+}
+#menu:hover{
+	cursor: pointer;
+	background-color: #ED5C9A;
+}
+.tabshape{
+	border-radius: 30px;
+}
+#online{
+	width: 200px;
+	height: 40px;
+	background-color: white;
+	position: absolute;
+	left: 300px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 2em;
+	text-align: center;
+	transition: all 1s;
+}
+#online:hover{
+	cursor: pointer;
+	background-color: #ED5C9A;
+}
+#location{
+	width: 150px;
+	height: 40px;
+	background-color: white;
+	position: absolute;
+	left: 1100px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 2em;
+	text-align: center;
+	transition: all 1s;
+}
+#location:hover{
+	cursor: pointer;
+	background-color: #ED5C9A;
+}
+#contact{
+	width: 200px;
+	height: 40px;
+	background-color:white;
+	position: absolute;
+	left: 1400px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 2em;
+	text-align: center;
+	transition: all 1s;
+}
+#contact:hover{
+	cursor: pointer;
+	background-color: #ED5C9A;
+}
+#imgage{
+	width: 900px;
+	height: 500px;
+	background-color: aquamarine;
+	position: absolute;
+	left: 320px;
+	right: 400px;
+	top: 200px;
+}
+#order{
+	width: 480px;
+	height: 50px;
+	background-color: #C34379;
+	position: absolute;
+	top: 900px;
+	left: 550px;
+}
+#order h1{
+	color: white;
+	position: absolute;
+	left: 150px;
+	bottom: -15px;
+	
+}
+#breakfast{
+	position: absolute;
+	top: 1100px;
+	left: 460px;
+}
+#lunch{
+	position: absolute;
+	top: 1100px;
+	left: 870px;
+}
+#dinner{
+	position: absolute;
+	top: 1100px;
+	left: 60px;
+}
+#dessert{
+	position: absolute;
+	top: 1100px;
+	left: 1260px;
+}
+#menue{
+	width: 2000px;
+	height: 100px;
+	background-color:#6B4741;
+	position: absolute;
+	top: 1400px;
+}
+#menue h1{
+	font-size: 2.5em;
+	position: absolute;
+	left: 750px
+		
+}
+#table{
+	position: absolute;
+	top: 1460px;
+	left: 640px;
+}
+#appetizer{
+	font-size: 1.2em;
+	position: relative;
+	bottom: -100px;
+	right: 400px
+}
+#lunchanddinner{
+	font-size: 1.2em;
+	position: relative;
+	bottom: 470px;
+}
+#desert1{
+	font-size: 1.2em;
+	position: relative;
+	bottom: 1040px;
+	left: 400px;
+}
+.center p{
+	font-size: 1.2em;
+}
+h1{
+    color: #FC4614;
+	position: absolute;
+	left: 760px;
+}
+h3{
+	color:#FC4614;
+	font-size: 1.2em;
+}
+.text p{
+	font-size: 1.2em;
+	position: relative;
+	bottom: 1000px;
+	left: 400px;
+}
+#homstead p{
+	font-size: 1.2em;
+}
+#kendal p{
+	font-size: 1.2em;
+}
+#p p{
+	text-align: center;
+	font-size: 1.5em;
+}
+.center{
+	text-align: center;
+	position: relative;
+	font-family:  Helvetica, Arial, "sans-serif"
+	}
+.text1{
+	font-size: 1.2em;
+	position: relative;
+	right: 400px;
+	bottom: -140px;
+}
+.text2{
+	font-size: 1.2em;
+	position: relative;
+	bottom: 430px;
+}
+#loc{
+	width: 480px;
+	height: 50px;
+	background-color: #A63564;
+	position: absolute;
+	top: 2350px;
+	left: 560px;
+}
+#loc h1{
+	font-size: 2.5em;
+	position: relative;
+	left: 150px;
+	bottom: 25px;
+	color: white;
+}
+#homstead{
+	position: relative;
+	top: 2450px;
+	right: 960px;
+	font-size: 0.8em;
+}
+#homstead p{
+	position: relative;
+	left: 760px;
+
+}
+#kendal{
+	position: relative;
+	top: 2500px;
+	right: 960px;
+	font-size: 0.8em;
+}
+#kendal p{
+	position: relative;
+	left: 760px;
+}
+#us{
+	width: 480px;
+	height: 50px;
+	background-color: #6D0C36;
+	position: absolute;
+	top: 2900px;
+	left: 560px;
+}
+#us h1{
+	font-size: 2.5em;
+	position: relative;
+	left: 150px;
+	bottom: 25px;
+	color: white;
+}
+#p{
+	position: absolute;
+	top: 3000px;
+	left: 600px;
+	width: 400px;
+}
+
+	
+	
+	
+	
